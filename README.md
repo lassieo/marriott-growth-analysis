@@ -1,2 +1,20 @@
 # marriott-growth-analysis
 A full Tableau-based competitive benchmarking analysis for global hotel brands. Includes dataset creation, KPI modeling, and dashboard design for loyalty metrics, RevPAR, and brand scale. Built as part of a data analytics portfolio.
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Marriott Growth Dashboard</title>
+</head>
+<body>
+  <h1>Marriott Growth & Competitive Benchmarking</h1>
+  <iframe
+    src="https://public.tableau.com/views/CompetitiveBenchMarking/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"
+    width="100%"
+    height="900"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
